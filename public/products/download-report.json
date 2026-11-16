@@ -1,0 +1,346 @@
+{
+  "generatedAt": "2026-11-16T12:00:54.861Z",
+  "total": 48,
+  "downloaded": 0,
+  "skipped": 48,
+  "notFound": 0,
+  "failed": 0,
+  "results": [
+    {
+      "sku": "SAU-PLY-001",
+      "name": "Whole Chicken",
+      "query": "raw whole chicken fresh poultry",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-001.jpg"
+    },
+    {
+      "sku": "SAU-PLY-002",
+      "name": "Chicken Carcass",
+      "query": "raw chicken carcass poultry",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-002.jpg"
+    },
+    {
+      "sku": "SAU-PLY-003",
+      "name": "Chicken Breast Boneless",
+      "query": "raw boneless chicken breast",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-003.jpg"
+    },
+    {
+      "sku": "SAU-PLY-004",
+      "name": "Chicken Breast Bone-in",
+      "query": "raw bone in chicken breast",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-004.jpg"
+    },
+    {
+      "sku": "SAU-PLY-005",
+      "name": "Chicken Thigh",
+      "query": "raw chicken thighs",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-005.jpg"
+    },
+    {
+      "sku": "SAU-PLY-006",
+      "name": "Chicken Drumstick",
+      "query": "raw chicken drumsticks",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-006.jpg"
+    },
+    {
+      "sku": "SAU-PLY-007",
+      "name": "Chicken Wings",
+      "query": "raw chicken wings",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-007.jpg"
+    },
+    {
+      "sku": "SAU-PLY-008",
+      "name": "Chicken Feet",
+      "query": "raw chicken feet",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-008.jpg"
+    },
+    {
+      "sku": "SAU-PLY-009",
+      "name": "Chicken Skin",
+      "query": "raw chicken skin",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-009.jpg"
+    },
+    {
+      "sku": "SAU-PLY-010",
+      "name": "Chicken Liver and Gizzard",
+      "query": "fresh raw chicken liver gizzard",
+      "status": "SKIPPED",
+      "file": "SAU-PLY-010.jpg"
+    },
+    {
+      "sku": "SAU-FSH-001",
+      "name": "Tuna",
+      "query": "fresh whole tuna fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-001.jpg"
+    },
+    {
+      "sku": "SAU-FSH-002",
+      "name": "Salmon",
+      "query": "fresh whole salmon fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-002.jpg"
+    },
+    {
+      "sku": "SAU-FSH-003",
+      "name": "Red Snapper",
+      "query": "fresh red snapper fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-003.jpg"
+    },
+    {
+      "sku": "SAU-FSH-004",
+      "name": "Gurame",
+      "query": "fresh gourami fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-004.jpg"
+    },
+    {
+      "sku": "SAU-FSH-005",
+      "name": "Tilapia",
+      "query": "fresh tilapia fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-005.jpg"
+    },
+    {
+      "sku": "SAU-FSH-006",
+      "name": "Catfish",
+      "query": "fresh catfish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-006.jpg"
+    },
+    {
+      "sku": "SAU-FSH-007",
+      "name": "Pangasius",
+      "query": "fresh pangasius fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-007.jpg"
+    },
+    {
+      "sku": "SAU-FSH-008",
+      "name": "Mackerel Tuna",
+      "query": "fresh mackerel tuna fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-008.jpg"
+    },
+    {
+      "sku": "SAU-FSH-009",
+      "name": "Spanish Mackerel",
+      "query": "fresh spanish mackerel fish",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-009.jpg"
+    },
+    {
+      "sku": "SAU-FSH-010",
+      "name": "Milkfish",
+      "query": "fresh milkfish bandeng",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-010.jpg"
+    },
+    {
+      "sku": "SAU-FSH-011",
+      "name": "Shrimp",
+      "query": "fresh raw shrimp seafood",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-011.jpg"
+    },
+    {
+      "sku": "SAU-FSH-012",
+      "name": "Squid",
+      "query": "fresh raw squid seafood",
+      "status": "SKIPPED",
+      "file": "SAU-FSH-012.jpg"
+    },
+    {
+      "sku": "SAU-FPR-001",
+      "name": "Tuna Fillet",
+      "query": "fresh raw tuna fillet",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-001.jpg"
+    },
+    {
+      "sku": "SAU-FPR-002",
+      "name": "Salmon Fillet",
+      "query": "fresh raw salmon fillet",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-002.jpg"
+    },
+    {
+      "sku": "SAU-FPR-003",
+      "name": "Snapper Fillet",
+      "query": "fresh red snapper fillet",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-003.jpg"
+    },
+    {
+      "sku": "SAU-FPR-004",
+      "name": "Tuna Loin",
+      "query": "fresh tuna loin raw",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-004.jpg"
+    },
+    {
+      "sku": "SAU-FPR-005",
+      "name": "Fish Steak",
+      "query": "fresh raw fish steak cut",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-005.jpg"
+    },
+    {
+      "sku": "SAU-FPR-006",
+      "name": "Fish Mince",
+      "query": "raw minced fish seafood",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-006.jpg"
+    },
+    {
+      "sku": "SAU-FPR-007",
+      "name": "Peeled Shrimp",
+      "query": "peeled raw shrimp seafood",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-007.jpg"
+    },
+    {
+      "sku": "SAU-FPR-008",
+      "name": "Cleaned Squid",
+      "query": "cleaned raw squid seafood",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-008.jpg"
+    },
+    {
+      "sku": "SAU-FPR-009",
+      "name": "Fish Nugget",
+      "query": "fish nuggets food",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-009.jpg"
+    },
+    {
+      "sku": "SAU-FPR-010",
+      "name": "Fish Ball",
+      "query": "fish balls seafood food",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-010.jpg"
+    },
+    {
+      "sku": "SAU-FPR-011",
+      "name": "Fish Cake",
+      "query": "fish cake seafood food",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-011.jpg"
+    },
+    {
+      "sku": "SAU-FPR-012",
+      "name": "Fish Sausage",
+      "query": "fish sausage seafood food",
+      "status": "SKIPPED",
+      "file": "SAU-FPR-012.jpg"
+    },
+    {
+      "sku": "SAU-PET-001",
+      "name": "Adult Dog Food",
+      "query": "premium dry adult dog food kibble",
+      "status": "SKIPPED",
+      "file": "SAU-PET-001.jpg"
+    },
+    {
+      "sku": "SAU-PET-002",
+      "name": "Puppy Food",
+      "query": "premium puppy dry food kibble",
+      "status": "SKIPPED",
+      "file": "SAU-PET-002.jpg"
+    },
+    {
+      "sku": "SAU-PET-003",
+      "name": "Adult Cat Food",
+      "query": "premium adult cat food kibble",
+      "status": "SKIPPED",
+      "file": "SAU-PET-003.jpg"
+    },
+    {
+      "sku": "SAU-PET-004",
+      "name": "Kitten Food",
+      "query": "premium kitten food kibble",
+      "status": "SKIPPED",
+      "file": "SAU-PET-004.jpg"
+    },
+    {
+      "sku": "SAU-PET-005",
+      "name": "Wet Petfood",
+      "query": "wet pet food can",
+      "status": "SKIPPED",
+      "file": "SAU-PET-005.jpg"
+    },
+    {
+      "sku": "SAU-PET-006",
+      "name": "Frozen Raw Petfood",
+      "query": "frozen raw pet food",
+      "status": "SKIPPED",
+      "file": "SAU-PET-006.jpg"
+    },
+    {
+      "sku": "SAU-PET-007",
+      "name": "Chicken Pet Treats",
+      "query": "natural chicken dog treats",
+      "status": "SKIPPED",
+      "file": "SAU-PET-007.jpg"
+    },
+    {
+      "sku": "SAU-PET-008",
+      "name": "Fish Pet Treats",
+      "query": "natural fish cat dog treats",
+      "status": "SKIPPED",
+      "file": "SAU-PET-008.jpg"
+    },
+    {
+      "sku": "SAU-OIL-FISH-001",
+      "name": "Fish Oil",
+      "query": "golden fish oil in glass bottle",
+      "status": "SKIPPED",
+      "file": "SAU-OIL-FISH-001.jpg"
+    },
+    {
+      "sku": "SAU-OIL-FISH-002",
+      "name": "Salmon Fish Oil",
+      "query": "salmon fish oil bottle",
+      "status": "SKIPPED",
+      "file": "SAU-OIL-FISH-002.jpg"
+    },
+    {
+      "sku": "SAU-OIL-FISH-003",
+      "name": "Tuna Fish Oil",
+      "query": "tuna fish oil bottle",
+      "status": "SKIPPED",
+      "file": "SAU-OIL-FISH-003.jpg"
+    },
+    {
+      "sku": "SAU-OIL-CHKN-001",
+      "name": "Chicken Oil",
+      "query": "golden chicken oil in glass bottle",
+      "status": "SKIPPED",
+      "file": "SAU-OIL-CHKN-001.jpg"
+    },
+    {
+      "sku": "SAU-OIL-CHKN-002",
+      "name": "Rendered Chicken Fat",
+      "query": "rendered chicken fat in glass jar",
+      "status": "SKIPPED",
+      "file": "SAU-OIL-CHKN-002.jpg"
+    },
+    {
+      "sku": "SAU-OIL-CHKN-003",
+      "name": "Chicken Oil Blend",
+      "query": "chicken oil golden liquid bottle",
+      "status": "SKIPPED",
+      "file": "SAU-OIL-CHKN-003.jpg"
+    }
+  ]
+}
